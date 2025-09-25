@@ -1,0 +1,3 @@
+velodyne_transform_node:
+  ros__parameters:
+    calibration: '/home/user/dockerfiles/shit/testros/src/VLP16db.yaml'
